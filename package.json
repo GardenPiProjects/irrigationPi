@@ -1,0 +1,28 @@
+{
+  "name": "irrigationpi",
+  "version": "1.0.0",
+  "description": "An irrigation project for raspberry pi with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angamanga/irrigationPi.git"
+  },
+  "keywords": [
+    "gardening",
+    "raspberrypi",
+    "node.js"
+  ],
+  "author": "Angamanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angamanga/irrigationPi/issues"
+  },
+  "homepage": "https://github.com/Angamanga/irrigationPi#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "request": "^2.69.0"
+  }
+}
