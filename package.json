@@ -23,6 +23,8 @@
   "homepage": "https://github.com/Angamanga/irrigationPi#readme",
   "dependencies": {
     "dotenv": "^2.0.0",
-    "request": "^2.69.0"
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "socket.io": "^1.4.5"
   }
 }
