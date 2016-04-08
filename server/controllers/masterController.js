@@ -1,15 +1,19 @@
 "use strict";
 const forecast = require('./forecast'),
-        temperature =require('./temperature'),
         DailyReport = require('../models/DailyReport'),
+        camera = require('./camera'),
+        temperature =require('./temperature'),
         CronJob = require('cron').CronJob;
+
 module.exports = {
     init(){
+
         let temperature,
             photourl;
         new CronJob('* * * * * *', function() {
-            let today = new DailyReport(25,"www.c.se",0.5,true);
-            console.log(today);
+            camera.takePhoto().then(url=>{
+                console.log(url);
+            })
             forecast.getForecastInfo().then(precipitationProbability =>{
                 //TODO:add scheduled event for collecting data
                 //TODO:add to database together with timestamp
