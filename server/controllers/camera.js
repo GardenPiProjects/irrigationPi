@@ -1,5 +1,5 @@
 const RaspiCam = require("raspicam"),
-    camera = new RaspiCam({mode: 'photo', q: 100, t: 1}),
+    camera = new RaspiCam({mode: 'photo', q: 100, t: 1, output:'./image/image.jpg'}),
     cloudinary = require('cloudinary');
 
 
