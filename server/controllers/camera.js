@@ -1,6 +1,6 @@
-//const RaspiCam = require("raspicam"),
-//  camera = new RaspiCam({mode: 'photo', q: 100, t: 1}),
-const cloudinary = require('cloudinary');
+const RaspiCam = require("raspicam"),
+    camera = new RaspiCam({mode: 'photo', q: 100, t: 1}),
+    cloudinary = require('cloudinary');
 
 
 module.exports = {
@@ -15,10 +15,10 @@ module.exports = {
             camera.on("read", (err, timestamp, filename)=> {
                 if (err) {
                     console.log('error', err);
-                    return 'error';
+                    reject('error');
                 }
                 else {
-                    cloudinary.uploader.upload("./image/image.jpg", result=> {
+                    cloudinary.uploader.upload("./server/controllers/"+filename, result=> {
                         resolve(result.url);
                     }, {tags: ['gardenPi', 'dailyReport']});
                 }

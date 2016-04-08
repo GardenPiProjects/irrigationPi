@@ -10,7 +10,7 @@ module.exports = {
 
         let temperature,
             photourl;
-        new CronJob('* * * * * *', function() {
+        new CronJob('20 * * * * *', function() {
             camera.takePhoto().then(url=>{
                 console.log(url);
             })
