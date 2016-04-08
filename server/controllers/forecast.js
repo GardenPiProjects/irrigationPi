@@ -1,5 +1,5 @@
 "use strict";
-const settings = require('../settings'),
+const settings = require('../../settings'),
     request = require('request');
 
 module.exports = {
