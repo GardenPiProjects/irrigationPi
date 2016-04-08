@@ -9,7 +9,7 @@ module.exports = {
     init(){
 
         let photourl,
-            precipitationProbability;
+            precipProbability;
         new CronJob('20 * * * * *', function() {
             camera.takePhoto().then(url=>{
                 photourl = url;
@@ -17,9 +17,9 @@ module.exports = {
             }).then(precipitationProbability =>{
                 //TODO:add scheduled event for collecting data
                 //TODO:add to database together with timestamp
-                 precipitationProbability = precipitationProbability;
+                 precipProbability = precipitationProbability;
             }).then(()=>{
-                console.log(photourl + precipitationProbability);
+                console.log(photourl + precipProbability);
             });
         }, null, true, 'America/Los_Angeles');
 
