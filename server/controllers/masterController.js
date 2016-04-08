@@ -8,18 +8,19 @@ const forecast = require('./forecast'),
 module.exports = {
     init(){
 
-        let temperature,
-            photourl;
+        let photourl,
+            precipitationProbability;
         new CronJob('20 * * * * *', function() {
             camera.takePhoto().then(url=>{
-                console.log(url);
-            })
-            forecast.getForecastInfo().then(precipitationProbability =>{
+                photourl = url;
+                forecast.getForecastInfo();
+            }).then(precipitationProbability =>{
                 //TODO:add scheduled event for collecting data
                 //TODO:add to database together with timestamp
-                console.log(precipitationProbability);
+                 precipitationProbability = precipitationProbability;
+            }).then(()=>{
+                console.log(photourl + precipitationProbability);
             });
-
         }, null, true, 'America/Los_Angeles');
 
         //1.scedule event->take photo

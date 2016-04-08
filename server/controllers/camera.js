@@ -12,6 +12,7 @@ module.exports = {
         });
         return new Promise((resolve, reject)=> {
             camera.start();
+
             camera.on("read", (err, timestamp, filename)=> {
                 if (err) {
                     console.log('error', err);
