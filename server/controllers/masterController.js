@@ -14,22 +14,21 @@ module.exports = {
             camera.takePhoto().then(url=>{
                 photourl = url;
                 forecast.getForecastInfo().then(precipitationProbability =>{
-                    //TODO:add scheduled event for collecting data
-                    //TODO:add to database together with timestamp
                     precipProbability = precipitationProbability;
-                    console.log(precipProbability);
-                    console.log(precipitationProbability);
+
                 }).then(()=>{
-                    console.log(photourl + precipProbability);
+                    console.log(photourl + ' ' + precipProbability);
                 });;
             })
         }, null, true, 'America/Los_Angeles');
 
-        //1.scedule event->take photo
+        //1.scedule event->take photo OK
         //2. collect temperature
-        //3. check rainprobability
+        //3. check rainprobability OK
         //4. irrigate if neccesary
         //5. save all to database
-
+        //6. take another photo to check irrigation has stopped
+    //TODO: Add promises to array
+        //TODO: Error handling
     }
 }
