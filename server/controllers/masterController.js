@@ -18,6 +18,8 @@ module.exports = {
                 //TODO:add scheduled event for collecting data
                 //TODO:add to database together with timestamp
                  precipProbability = precipitationProbability;
+                console.log(precipProbability);
+                console.log(precipitationProbability);
             }).then(()=>{
                 console.log(photourl + precipProbability);
             });
