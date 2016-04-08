@@ -13,16 +13,16 @@ module.exports = {
         new CronJob('20 * * * * *', function() {
             camera.takePhoto().then(url=>{
                 photourl = url;
-                forecast.getForecastInfo();
-            }).then(precipitationProbability =>{
-                //TODO:add scheduled event for collecting data
-                //TODO:add to database together with timestamp
-                 precipProbability = precipitationProbability;
-                console.log(precipProbability);
-                console.log(precipitationProbability);
-            }).then(()=>{
-                console.log(photourl + precipProbability);
-            });
+                forecast.getForecastInfo().then(precipitationProbability =>{
+                    //TODO:add scheduled event for collecting data
+                    //TODO:add to database together with timestamp
+                    precipProbability = precipitationProbability;
+                    console.log(precipProbability);
+                    console.log(precipitationProbability);
+                }).then(()=>{
+                    console.log(photourl + precipProbability);
+                });;
+            })
         }, null, true, 'America/Los_Angeles');
 
         //1.scedule event->take photo
