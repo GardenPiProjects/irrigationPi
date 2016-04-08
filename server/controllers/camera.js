@@ -18,7 +18,7 @@ module.exports = {
                     reject('error');
                 }
                 else {
-                    cloudinary.uploader.upload("./server/controllers/"+filename, result=> {
+                    cloudinary.uploader.upload(".image/image.jpg", result=> {
                         resolve(result.url);
                     }, {tags: ['gardenPi', 'dailyReport']});
                 }
