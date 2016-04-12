@@ -7,10 +7,14 @@ module.exports = {
         return new Promise((resolve, reject)=> {
             request(settings.forcastio, function (error, response, body) {
                 if (!error && response.statusCode == 200) {
-                    console.log(JSON.parse(body).currently.precipProbability);
-                    resolve(JSON.parse(body).currently.precipProbability);
-                }
-                    reject('an error occured');
+                            try{
+                            resolve(JSON.parse(body).currently.precipProbability);
+                            }
+                            catch(e){
+                            resolve('precipitation probability could not be found');
+                         }
+                    }
+                resolve('precipitation probability could not be found');
             });
         });
     }

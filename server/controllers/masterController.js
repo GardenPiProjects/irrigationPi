@@ -9,17 +9,14 @@ module.exports = {
     init(){
 
         let photourl,
-            precipProbability;
+            precipProbability,
+            checksToDo = [camera.takePhoto(),forecast.getForecastInfo()];
         new CronJob('20 * * * * *', function() {
-            camera.takePhoto().then(url=>{
-                photourl = url;
-                forecast.getForecastInfo().then(precipitationProbability =>{
-                    precipProbability = precipitationProbability;
-
-                }).then(()=>{
-                    console.log(photourl + ' ' + precipProbability);
-                });;
-            })
+            Promise.all(checksToDo).then((data)=>{
+                console.log(data);
+                photourl = data[0];
+                precipProbability = data[1];
+            });
         }, null, true, 'America/Los_Angeles');
 
         //1.scedule event->take photo OK
@@ -28,7 +25,6 @@ module.exports = {
         //4. irrigate if neccesary
         //5. save all to database
         //6. take another photo to check irrigation has stopped
-    //TODO: Add promises to array
         //TODO: Error handling
     }
 }

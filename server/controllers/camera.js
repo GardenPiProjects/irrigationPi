@@ -16,7 +16,7 @@ module.exports = {
             camera.on("read", (err, timestamp, filename)=> {
                 if (err) {
                     console.log('error', err);
-                    reject('error');
+                    resolve('no image could be taken');
                 }
                 else {
                     cloudinary.uploader.upload("./image/image.jpg", result=> {
