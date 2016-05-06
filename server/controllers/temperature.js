@@ -9,9 +9,10 @@ module.exports = {
             console.log(ids);
         });
 
-        ds18b20.temperature('28-0115907b5dff', function(err, value) {
+        ds18b20.temperature('28-0115907b5dff', function (err, value) {
             console.log('Current temperature is', value);
             resolve(value);
+        });
     });
 
 
