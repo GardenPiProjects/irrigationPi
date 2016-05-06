@@ -1,7 +1,32 @@
 "use strict";
-module.exports = () =>{
-    return 'the temperature is 25 degrees';
+const ds18b20 = require('ds18b20');
+
+module.exports = {
+    measureTemperature()
+    {
+        ds18b20.sensors(function (err, ids) {
+            console.log(ids);
+        });
+
+    // ds18b20.temperature('10-00080283a977', function(err, value) {
+    //     console.log('Current temperature is', value);
+    //     return value;
+    // });
+        //https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/hardware
+        //https://www.adafruit.com/products/381
+        //https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing
+// // ... or sync call
+//     console.log('Current temperature is' + ds18b20.temperatureSync('10-00080283a977'));
+//
+// // default parser is the decimal one. You can use the hex one by setting an option
+//     ds18b20.temperature('10-00080283a977', {parser: 'hex'}, function(err, value) {
+//         console.log('Current temperature is', value);
+//     });
+//
+//     console.log('Current temperature is' + ds18b20.temperatureSync('10-00080283a977', {parser: 'hex'}));
+//
+    }
 }
-
-
-//https://github.com/loyd/node-vcgencmd
+//sudo modprobe wire
+// sudo modprobe w1-gpio
+// sudo modprobe w1-therm

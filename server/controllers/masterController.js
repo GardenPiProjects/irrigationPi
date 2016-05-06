@@ -3,19 +3,24 @@ const forecast = require('./forecast'),
         DailyReport = require('../models/DailyReport'),
         camera = require('./camera'),
         temperature =require('./temperature'),
+        irrigation = require('./irrigation'),
         CronJob = require('cron').CronJob;
 
 module.exports = {
     init(){
-
         let photourl,
             precipProbability,
-            checksToDo = [camera.takePhoto(),forecast.getForecastInfo()];
+            irrigated = false,
+            checksToDo = [camera.takePhoto(),forecast.getForecastInfo(),temperature.measureTemperature()];
         new CronJob('20 * * * * *', function() {
             Promise.all(checksToDo).then((data)=>{
                 console.log(data);
                 photourl = data[0];
                 precipProbability = data[1];
+                // if(precipProbability<0.6){
+                //     irrigation.startIrrigation();
+                //     irrigated = true;
+                // }
             });
         }, null, true, 'America/Los_Angeles');
 
