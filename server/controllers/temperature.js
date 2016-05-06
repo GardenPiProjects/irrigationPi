@@ -5,16 +5,16 @@ module.exports = {
     measureTemperature()
     {return new Promise((resolve, reject)=> {
         ds18b20.sensors(function (err, ids) {
+            console.log(err);
             console.log(ids);
-            console.log(ids);
-            resolve(ids);
+        });
+        ds18b20.temperature('00-400000000000', function(err, value) {
+            console.log('Current temperature is', value);
+            resolve(value);
         });
     });
 
-    // ds18b20.temperature('10-00080283a977', function(err, value) {
-    //     console.log('Current temperature is', value);
-    //     return value;
-    // });
+
         //https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/hardware
         //https://www.adafruit.com/products/381
         //https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing
