@@ -12,9 +12,11 @@ module.exports = {
         ds18b20.temperature('00-c00000000000', function(err, value) {
             console.log('Current temperature is', value);
             resolve(value);
-        ds18b20.temperature('00-200000000000', function(err, value) {
+        });
+            ds18b20.temperature('00-200000000000', function(err, value) {
             console.log('Current temperature is', value);
             resolve(value);
+        });
         ds18b20.temperature('00-a00000000000', function(err, value) {
             console.log('Current temperature is', value);
             resolve(value);
