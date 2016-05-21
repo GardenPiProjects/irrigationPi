@@ -19,10 +19,10 @@ module.exports = {
                 precipProbability = data[1];
                 currentTemp = data[2];
 
-                // if(precipProbability<0.6){
-                //     irrigation.startIrrigation();
-                //     irrigated = true;
-                // }
+                if(precipProbability<0.6){
+                    irrigation.startIrrigation();
+                    irrigated = true;
+                }
             });
         }, null, true, 'America/Los_Angeles');
 //alert!! Is cronJob really doing all checks each time?
