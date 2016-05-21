@@ -1,7 +1,7 @@
 #Irrigation Pi
 
 ##This is a hobby-project where I am creating an automatic irrigation system that will:
-
+//192.168.2.2
 1. check the probability of rain
 2. if probablity of rain is <50 %, the system will water my garden automatically
 3. temperature will be measured and saved to database every day at morning and evening
