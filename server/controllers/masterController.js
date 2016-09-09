@@ -4,6 +4,7 @@ const forecast = require('./forecast'),
         camera = require('./camera'),
         temperature =require('./temperature'),
         irrigation = require('./irrigation'),
+        saveData = require('../models/DAL/save'),
         CronJob = require('cron').CronJob;
 
 module.exports = {
@@ -19,10 +20,12 @@ module.exports = {
                 precipProbability = data[1];
                 currentTemp = data[2];
 
-                if(precipProbability<0.6){
-                    irrigation.startIrrigation();
-                    irrigated = true;
-                }
+                // if(precipProbability<0.6){
+                //     irrigation.startIrrigation();
+                //     irrigated = true;
+                // }
+                const report = new DailyReport(currentTemp, photourl, precipProbability, false);
+                saveData(report);
             });
         }, null, true, 'America/Los_Angeles');
 //alert!! Is cronJob really doing all checks each time?
