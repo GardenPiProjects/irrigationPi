@@ -1,40 +1,41 @@
 "use strict";
-const forecast = require('./forecast'),
-        DailyReport = require('../models/DailyReport'),
-        camera = require('./camera'),
-        temperature =require('./temperature'),
-        irrigation = require('./irrigation'),
-        saveData = require('../models/DAL/save'),
-        CronJob = require('cron').CronJob;
+const forecast = require('./forecast');
+const DailyReport = require('../models/DailyReport');
+const camera = require('./camera');
+const temperature = require('./temperature');
+const irrigation = require('./irrigation');
+const saveData = require('../models/DAL/save');
+const CronJob = require('cron').CronJob;
 
 module.exports = {
-    init(){
-        let photourl,
-            precipProbability,
-            irrigated = false,
-            currentTemp;
-        new CronJob('20 * * * * *', function() {
-            Promise.all([camera.takePhoto(),forecast.getForecastInfo(),temperature.measureTemperature()]).then((data)=>{
-                console.log(data);
-                photourl = data[0];
-                precipProbability = data[1];
-                currentTemp = data[2];
+  init() {
+    let photourl;
+    let precipProbability;
+    let irrigated = false;
+    let currentTemp;
+    new CronJob('20 * * * * *', function () {
+      Promise.all([camera.takePhoto(), forecast.getForecastInfo(), temperature.measureTemperature()]).then((data) => {
+        console.log(data);
+        photourl = data[0];
+        precipProbability = data[1];
+        currentTemp = data[2];
 
-                // if(precipProbability<0.6){
-                //     irrigation.startIrrigation();
-                //     irrigated = true;
-                // }
-                const report = new DailyReport(currentTemp, photourl, precipProbability, false);
-                saveData(report);
-            });
-        }, null, true, 'America/Los_Angeles');
+        // if(precipProbability<0.6){
+        //     irrigation.startIrrigation();
+        //     irrigated = true;
+        // }
+
+        const report = new DailyReport(currentTemp, photourl, precipProbability, irrigated);
+        saveData(report);
+      });
+    }, null, true, 'America/Los_Angeles');
 //alert!! Is cronJob really doing all checks each time?
-        //1.scedule event->take photo OK
-        //2. collect temperature OK
-        //3. check rainprobability OK
-        //4. irrigate if neccesary
-        //5. save all to database
-        //6. take another photo to check irrigation has stopped
-        //TODO: Error handling
-    }
+    //1.scedule event->take photo OK
+    //2. collect temperature OK
+    //3. check rainprobability OK
+    //4. irrigate if neccesary On hold
+    //5. save all to database OK
+    //6. take another photo to check irrigation has stopped On hold
+  }
 }
+
