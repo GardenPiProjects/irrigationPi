@@ -13,7 +13,8 @@ module.exports = {
     let precipProbability;
     let irrigated = false;
     let currentTemp;
-    new CronJob('20 * * * * *', function () {
+new CronJob('20 * * * * *', function() {    
+//new CronJob('00 00 00,05,10,15,20 * * *', () => {
       Promise.all([camera.takePhoto(), forecast.getForecastInfo(), temperature.measureTemperature()]).then((data) => {
         console.log(data);
         photourl = data[0];
@@ -28,7 +29,7 @@ module.exports = {
         const report = new DailyReport(currentTemp, photourl, precipProbability, irrigated);
         saveData(report);
       });
-    }, null, true, 'America/Los_Angeles');
+    }, null, true, 'Europe/Stockholm');
 //alert!! Is cronJob really doing all checks each time?
     //1.scedule event->take photo OK
     //2. collect temperature OK

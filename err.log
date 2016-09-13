@@ -1,0 +1,9 @@
+(node) warning: possible EventEmitter memory leak detected. 11 read listeners added. Use emitter.setMaxListeners() to increase limit.
+Trace
+    at RaspiCam.addListener (events.js:239:17)
+    at /home/pi/nodeprograms/irrigationPi/server/controllers/camera.js:14:14
+    at Object.takePhoto (/home/pi/nodeprograms/irrigationPi/server/controllers/camera.js:12:12)
+    at CronJob.<anonymous> (/home/pi/nodeprograms/irrigationPi/server/controllers/masterController.js:17:27)
+    at CronJob.fireOnTick (/home/pi/nodeprograms/irrigationPi/node_modules/cron/lib/cron.js:392:22)
+    at callbackWrapper [as _onTimeout] (/home/pi/nodeprograms/irrigationPi/node_modules/cron/lib/cron.js:435:9)
+    at Timer.listOnTimeout (timers.js:92:15)

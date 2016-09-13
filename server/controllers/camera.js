@@ -1,5 +1,6 @@
-const RaspiCam = require("raspicam");
-const camera = new RaspiCam({ mode: 'photo', q: 100, t: 1, output: './image/image.jpg' });
+const Campi = require('campi');
+const camera = new Campi();
+const path = './image/image.jpg';
 const cloudinary = require('cloudinary');
 
 module.exports = {
@@ -10,14 +11,15 @@ module.exports = {
       api_secret: process.env.CLOUDINARY_API_SECRET,
     });
     return new Promise((resolve, reject) => {
-      camera.start();
-      camera.on("read", (err, timestamp, filename)=> {
+      camera.getImageAsFile({},path, err => {
         if (err) {
           console.log('error', err);
           resolve('no image could be taken');
         }
         else {
-          cloudinary.uploader.upload("./image/image.jpg", result => {
+           // cloudinary.api.delete_all_resources((result)=>{
+	   // console.log(result)}); 
+	    cloudinary.uploader.upload("./image/image.jpg", result => {
             resolve(result.url);
           }, { tags: ['gardenPi', 'dailyReport'] });
         }

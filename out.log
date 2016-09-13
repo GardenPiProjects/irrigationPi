@@ -1,0 +1,749 @@
+server started
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 29.2
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473519127/jqrcwrjyxw0zsaseqjth.jpg',
+  0,
+  29.2 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 29.9
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473521527/dt0myqxeer2un7suaxkd.jpg',
+  0,
+  29.9 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 30.2
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473522545/wwa4msjqdcyiuopcvsqr.jpg',
+  0,
+  30.2 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 30.1
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473522731/syzr4un0s6sab7sfi4fo.jpg',
+  0,
+  30.1 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 28.7
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 28.7
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473525129/bgpyguudx2yzn8hpj2un.jpg',
+  0,
+  28.7 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473525179/i40rqla2qzr2l6vhqego.jpg',
+  0,
+  28.7 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 27.2
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473526167/lei6fpqch1sdgtjayj2q.jpg',
+  0,
+  27.2 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 27.1
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473526351/wdsayd5vx1ae7ptxwuon.jpg',
+  0,
+  27.1 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.9
+[ undefined,
+  'precipitation probability could not be found',
+  23.9 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.6
+[ undefined,
+  'precipitation probability could not be found',
+  23.6 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.6
+[ undefined,
+  'precipitation probability could not be found',
+  23.6 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 21.9
+[ undefined,
+  'precipitation probability could not be found',
+  21.9 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 22
+[ undefined, 'precipitation probability could not be found', 22 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 22
+[ undefined, 'precipitation probability could not be found', 22 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473582773/k0dka9vuqvdsbqc9fdxf.jpg',
+  0,
+  23.8 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 24.1
+[ undefined, 0, 24.1 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 24.3
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473583997/thds8599otywogn96adv.jpg',
+  0,
+  24.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 25.6
+[ undefined, 0.02, 25.6 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 25.3
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473601811/mzo9kmp0cgw140tshotg.jpg',
+  0.03,
+  25.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 25.3
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473601984/yv6sferhblf6zy2b2vho.jpg',
+  0.04,
+  25.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 26.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473604359/nqrkwhgylh33phucm9sy.jpg',
+  0.05,
+  26.8 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 27
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473605413/wk9jm3bwfr2vkw1awlam.jpg',
+  0.05,
+  27 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 26.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473605557/mbfnujo6sz0fdlff9c5i.jpg',
+  0.05,
+  26.8 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 27.6
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473607935/jkctkxu1pfutgohsogto.jpg',
+  0.05,
+  27.6 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 27.4
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473608955/l6tcxakee5zmj8bfwsiy.jpg',
+  0.05,
+  27.4 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 27
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473609136/atvqnkslueicgmvh51ez.jpg',
+  0.05,
+  27 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 28.3
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473611561/m9jlydegsjstjcchvsge.jpg',
+  0.03,
+  28.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 27.9
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473612632/hlm2cdcr0rxcbugy1gct.jpg',
+  0.03,
+  27.9 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 27.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473612766/f5xvs2qbvdrffmebcdfy.jpg',
+  0.02,
+  27.8 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473625936/bptmt9anlvan9cglasxl.jpg',
+  0.04,
+  23 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 22.9
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473626949/jwfebewmm3qn6d0gniaz.jpg',
+  0.04,
+  22.9 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 22.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473627131/zffz6hu563lcres2osb5.jpg',
+  0.04,
+  22.8 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 20.6
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473654735/kok0wcqmrdbyjfsbozx9.jpg',
+  0,
+  20.6 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 20.6
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473655764/fzsczdj0rrt6vbhqffj4.jpg',
+  0,
+  20.6 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 20.6
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473655936/q6cblaxpxufipuv1qame.jpg',
+  0,
+  20.6 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.3
+[ undefined, 0, 23.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.4
+[ undefined, 0, 23.4 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.4
+[ undefined, 0, 23.4 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 29.6
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473687157/ry699j2j2fujunif24cv.jpg',
+  0,
+  29.6 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 29.9
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473688167/curt1qg1utvfsurprswr.jpg',
+  0,
+  29.9 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 30
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473688357/xqafu8dalnqiwnwyyydt.jpg',
+  0,
+  30 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 30.6
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473690766/qygbbgrtu7avn0yrgs8n.jpg',
+  0,
+  30.6 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 31
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473691778/a9ubwnvrbq33lph7uj1f.jpg',
+  0,
+  31 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 31.1
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473691964/mlurkvxsr8nnpgbn9pr1.jpg',
+  0,
+  31.1 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 30.4
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473694334/wt1a11b945cj3kx66u5z.jpg',
+  0,
+  30.4 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 31.3
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473695354/lsxhw8gu85kthaxtvdln.jpg',
+  0,
+  31.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 31.3
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473695537/ocg8ckgfju1dfylcqzx4.jpg',
+  0,
+  31.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 29.4
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473697942/nsxk1dagco8cnypuxc5d.jpg',
+  0,
+  29.4 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 28.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473698967/ornbqazssn7xq24e6tu2.jpg',
+  0,
+  28.8 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 28.1
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473699141/nb8je2t702zu2afigq8b.jpg',
+  0,
+  28.1 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.8
+[ undefined, 0, 23.8 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.3
+[ undefined, 0, 23.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 23.2
+[ undefined, 0, 23.2 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 18.4
+[ undefined, 0, 18.4 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 18.3
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473742202/gcdjb7qm9edtjowqrnxg.jpg',
+  0,
+  18.3 ]
+connected to database
+data was saved [object Object]
+calling....
+/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
+raspicam::watcher::event rename
+raspicam::watcher::event change
+raspicam::watcher::event rename
+raspicam::watcher::event rename
+Current temperature is 18.3
+[ undefined, 0, 18.3 ]
+{ [MongoError: connection 152 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 152 to ds019950.mlab.com:19950 timed out' }
+server started
+Current temperature is 20.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752381/p2xeezgiuojpulwff8yt.jpg',
+  0,
+  20.8 ]
+connected to database
+data was saved [object Object]
+Current temperature is 20.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752441/xzbfazcjggwk0hmwi0wo.jpg',
+  0,
+  20.8 ]
+connected to database
+data was saved [object Object]
+Current temperature is 20.8
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752507/avqvouidcsocjlhibmk9.jpg',
+  0,
+  20.8 ]
+connected to database
+data was saved [object Object]
+Current temperature is 20.9
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752564/jpo2xlpoceo7j80kau5v.jpg',
+  0,
+  20.9 ]
+connected to database
+data was saved [object Object]
+Current temperature is 20.9
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752624/onx6xdywf8sv4m0xv0n3.jpg',
+  0,
+  20.9 ]
+connected to database
+data was saved [object Object]
+Current temperature is 20.9
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752682/iz9wlgrjjjcojap2fb3i.jpg',
+  0,
+  20.9 ]
+connected to database
+data was saved [object Object]
+Current temperature is 21
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752739/wo6jnasqbjg0dflorjoh.jpg',
+  0,
+  21 ]
+connected to database
+data was saved [object Object]
+Current temperature is 21
