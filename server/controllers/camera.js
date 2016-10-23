@@ -11,7 +11,7 @@ module.exports = {
       api_secret: process.env.CLOUDINARY_API_SECRET,
     });
     return new Promise((resolve, reject) => {
-      camera.getImageAsFile({},path, err => {
+      camera.getImageAsFile({q:10},path, err => {
         if (err) {
           console.log('error', err);
           resolve('no image could be taken');

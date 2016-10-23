@@ -13,8 +13,8 @@ module.exports = {
     let precipProbability;
     let irrigated = false;
     let currentTemp;
-     // new CronJob('20 * * * * *', function() {    
-      new CronJob('00 00 00 * * *', () => {
+    // new CronJob('20 * * * * *', function() {    
+      new CronJob('00 14 * * * *', () => {
       Promise.all([camera.takePhoto(), forecast.getForecastInfo(), temperature.measureTemperature()]).then((data) => {
         console.log(data);
         photourl = data[0];
