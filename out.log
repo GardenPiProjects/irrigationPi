@@ -1,749 +1,889 @@
 server started
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 29.2
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473519127/jqrcwrjyxw0zsaseqjth.jpg',
+Current temperature is 19.4
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479634590/eoioo1xjosn7nwttyzmn.jpg',
   0,
-  29.2 ]
+  19.4 ]
 connected to database
 data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 29.9
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473521527/dt0myqxeer2un7suaxkd.jpg',
+Current temperature is 19.4
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479634659/qsj3mhuxhfro5r605y5w.jpg',
   0,
-  29.9 ]
+  19.4 ]
 connected to database
 data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 30.2
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473522545/wwa4msjqdcyiuopcvsqr.jpg',
+Current temperature is 19.3
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479634717/zkzi198ej6cxz5gnorbh.jpg',
   0,
-  30.2 ]
+  19.3 ]
 connected to database
 data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 30.1
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473522731/syzr4un0s6sab7sfi4fo.jpg',
-  0,
-  30.1 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 28.7
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 28.7
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473525129/bgpyguudx2yzn8hpj2un.jpg',
-  0,
-  28.7 ]
-connected to database
-data was saved [object Object]
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473525179/i40rqla2qzr2l6vhqego.jpg',
-  0,
-  28.7 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 27.2
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473526167/lei6fpqch1sdgtjayj2q.jpg',
-  0,
-  27.2 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 27.1
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473526351/wdsayd5vx1ae7ptxwuon.jpg',
-  0,
-  27.1 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.9
-[ undefined,
-  'precipitation probability could not be found',
-  23.9 ]
-{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
-  name: 'MongoError',
-  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.6
-[ undefined,
-  'precipitation probability could not be found',
-  23.6 ]
-{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
-  name: 'MongoError',
-  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.6
-[ undefined,
-  'precipitation probability could not be found',
-  23.6 ]
-{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
-  name: 'MongoError',
-  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 21.9
-[ undefined,
-  'precipitation probability could not be found',
-  21.9 ]
-{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
-  name: 'MongoError',
-  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 22
-[ undefined, 'precipitation probability could not be found', 22 ]
-{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
-  name: 'MongoError',
-  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 22
-[ undefined, 'precipitation probability could not be found', 22 ]
-{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
-  name: 'MongoError',
-  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473582773/k0dka9vuqvdsbqc9fdxf.jpg',
-  0,
-  23.8 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 24.1
-[ undefined, 0, 24.1 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 24.3
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473583997/thds8599otywogn96adv.jpg',
-  0,
-  24.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 25.6
-[ undefined, 0.02, 25.6 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 25.3
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473601811/mzo9kmp0cgw140tshotg.jpg',
-  0.03,
-  25.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 25.3
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473601984/yv6sferhblf6zy2b2vho.jpg',
-  0.04,
-  25.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 26.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473604359/nqrkwhgylh33phucm9sy.jpg',
-  0.05,
-  26.8 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 27
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473605413/wk9jm3bwfr2vkw1awlam.jpg',
-  0.05,
-  27 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 26.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473605557/mbfnujo6sz0fdlff9c5i.jpg',
-  0.05,
-  26.8 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 27.6
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473607935/jkctkxu1pfutgohsogto.jpg',
-  0.05,
-  27.6 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 27.4
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473608955/l6tcxakee5zmj8bfwsiy.jpg',
-  0.05,
-  27.4 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 27
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473609136/atvqnkslueicgmvh51ez.jpg',
-  0.05,
-  27 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 28.3
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473611561/m9jlydegsjstjcchvsge.jpg',
-  0.03,
-  28.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 27.9
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473612632/hlm2cdcr0rxcbugy1gct.jpg',
-  0.03,
-  27.9 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 27.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473612766/f5xvs2qbvdrffmebcdfy.jpg',
-  0.02,
-  27.8 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473625936/bptmt9anlvan9cglasxl.jpg',
-  0.04,
-  23 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 22.9
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473626949/jwfebewmm3qn6d0gniaz.jpg',
-  0.04,
-  22.9 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 22.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473627131/zffz6hu563lcres2osb5.jpg',
-  0.04,
-  22.8 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 20.6
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473654735/kok0wcqmrdbyjfsbozx9.jpg',
-  0,
-  20.6 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 20.6
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473655764/fzsczdj0rrt6vbhqffj4.jpg',
-  0,
-  20.6 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 20.6
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473655936/q6cblaxpxufipuv1qame.jpg',
-  0,
-  20.6 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.3
-[ undefined, 0, 23.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.4
-[ undefined, 0, 23.4 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.4
-[ undefined, 0, 23.4 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 29.6
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473687157/ry699j2j2fujunif24cv.jpg',
-  0,
-  29.6 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 29.9
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473688167/curt1qg1utvfsurprswr.jpg',
-  0,
-  29.9 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 30
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473688357/xqafu8dalnqiwnwyyydt.jpg',
-  0,
-  30 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 30.6
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473690766/qygbbgrtu7avn0yrgs8n.jpg',
-  0,
-  30.6 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 31
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473691778/a9ubwnvrbq33lph7uj1f.jpg',
-  0,
-  31 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 31.1
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473691964/mlurkvxsr8nnpgbn9pr1.jpg',
-  0,
-  31.1 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 30.4
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473694334/wt1a11b945cj3kx66u5z.jpg',
-  0,
-  30.4 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 31.3
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473695354/lsxhw8gu85kthaxtvdln.jpg',
-  0,
-  31.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 31.3
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473695537/ocg8ckgfju1dfylcqzx4.jpg',
-  0,
-  31.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 29.4
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473697942/nsxk1dagco8cnypuxc5d.jpg',
-  0,
-  29.4 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 28.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473698967/ornbqazssn7xq24e6tu2.jpg',
-  0,
-  28.8 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 28.1
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473699141/nb8je2t702zu2afigq8b.jpg',
-  0,
-  28.1 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.8
-[ undefined, 0, 23.8 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.3
-[ undefined, 0, 23.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 23.2
-[ undefined, 0, 23.2 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 18.4
-[ undefined, 0, 18.4 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 18.3
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473742202/gcdjb7qm9edtjowqrnxg.jpg',
-  0,
-  18.3 ]
-connected to database
-data was saved [object Object]
-calling....
-/opt/vc/bin/raspistill --output ./image/image.jpg --quality 100 --timeout 1 --width 640 --height 480
-raspicam::watcher::event rename
-raspicam::watcher::event change
-raspicam::watcher::event rename
-raspicam::watcher::event rename
-Current temperature is 18.3
-[ undefined, 0, 18.3 ]
-{ [MongoError: connection 152 to ds019950.mlab.com:19950 timed out]
-  name: 'MongoError',
-  message: 'connection 152 to ds019950.mlab.com:19950 timed out' }
 server started
-Current temperature is 20.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752381/p2xeezgiuojpulwff8yt.jpg',
+server started
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479636614/oqiwfr4d9xwmlgldd3h1.jpg',
   0,
-  20.8 ]
+  19.1 ]
 connected to database
 data was saved [object Object]
-Current temperature is 20.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752441/xzbfazcjggwk0hmwi0wo.jpg',
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479640218/nz0gxdihn61fdbsegq9c.jpg',
   0,
-  20.8 ]
+  17.8 ]
 connected to database
 data was saved [object Object]
-Current temperature is 20.8
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752507/avqvouidcsocjlhibmk9.jpg',
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479643814/un2w05zkinpm1c1u3rrw.jpg',
   0,
-  20.8 ]
+  18.4 ]
 connected to database
 data was saved [object Object]
-Current temperature is 20.9
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752564/jpo2xlpoceo7j80kau5v.jpg',
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479647414/nfgryd1uwtvwuqozez5v.jpg',
   0,
-  20.9 ]
+  18.1 ]
 connected to database
 data was saved [object Object]
-Current temperature is 20.9
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752624/onx6xdywf8sv4m0xv0n3.jpg',
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479651017/fezjpvndgvvbgnhxjk5v.jpg',
   0,
-  20.9 ]
+  17.6 ]
 connected to database
 data was saved [object Object]
-Current temperature is 20.9
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752682/iz9wlgrjjjcojap2fb3i.jpg',
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479654611/tnni9my4fvzautjeuyj1.jpg',
   0,
-  20.9 ]
+  17.4 ]
 connected to database
 data was saved [object Object]
-Current temperature is 21
-[ 'http://res.cloudinary.com/angamanga/image/upload/v1473752739/wo6jnasqbjg0dflorjoh.jpg',
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479658210/zsyrosah7fewgi3d74bz.jpg',
   0,
-  21 ]
+  17.3 ]
 connected to database
 data was saved [object Object]
-Current temperature is 21
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479661810/ugffouehiv3mbbnjtesn.jpg',
+  0,
+  17.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479665410/dmkk0sxmc7xfhqkbmcfo.jpg',
+  0,
+  16.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479669010/sxevv9wwpxydzilfgevp.jpg',
+  0,
+  16.7 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479672610/w9jvbwpnzai10dhjsgts.jpg',
+  0.01,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479676209/voohpkenxrldv9uee9oj.jpg',
+  0.05,
+  16.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479679810/bxjrglgdike2kafbhyec.jpg',
+  0.1,
+  16.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479683409/r8ongzydi1gkyjmljblg.jpg',
+  0.27,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479687009/j84mxftqhaxhu083dwba.jpg',
+  0.41,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479690609/voc5dcejuuqysjnqpaow.jpg',
+  0.57,
+  15.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479694209/jvkx1ctwmguj0a0q6tku.jpg',
+  0.63,
+  15.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479697810/nyq0hstq5vundn5ubk7x.jpg',
+  0.65,
+  15.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479701410/bnufcjcxho0wp7ol4k5p.jpg',
+  0.65,
+  15.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479705009/t03fuhvsqz0ysli1jl6z.jpg',
+  0.61,
+  15.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479708611/asgmyheeecpekjvopycw.jpg',
+  0.58,
+  15.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479712216/kczdui8piamwfivzolyw.jpg',
+  0.53,
+  15.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479715815/qblpdahj603dkjbcruty.jpg',
+  0.27,
+  15.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479719414/qiiqht3yesylp5wqhcma.jpg',
+  0.06,
+  15.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479723014/belra0aufjar8pvuluqt.jpg',
+  0.01,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479726614/n7pz9trnxwsgzavhzofy.jpg',
+  0,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479730218/xhmf8c9uuzsmhb5t2q5c.jpg',
+  0,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479733817/ixuzbe0lpxywxzxyexul.jpg',
+  0,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479737418/qb3z5bqdquklizo6gdn5.jpg',
+  0,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479741010/d8ld5ddbzkgpacfgsvre.jpg',
+  0,
+  16.2 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479744610/hyhoghdfnx49xonselcj.jpg',
+  0,
+  16.2 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479748210/euaavdfwtnvyzxfkwnp3.jpg',
+  0,
+  16.2 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479751811/yp3vkbewjvg4wprmcxfv.jpg',
+  0,
+  16.2 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479755411/szckegyhvjtyzyrpnfbc.jpg',
+  0.19,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479759011/tok7zltixa4fo5fhkoie.jpg',
+  0.51,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479762610/xam3fssn0hzmngrkbvda.jpg',
+  0.57,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479766210/yxvgmmvfz6vu47yvhqyk.jpg',
+  0.6,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479769810/vio6wrqn4vwwdehjjxtd.jpg',
+  0.6,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479773410/qalpbelwle5o8gfnioxh.jpg',
+  0.62,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479777010/qccajbwhpznomsrgk6we.jpg',
+  0.6,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479780609/flb0pqwdeknk2bsvbfjz.jpg',
+  0.56,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479784209/q4xfoexckbrwh2kbjarq.jpg',
+  0.52,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479787810/prfm43o09vjbdp7hd19c.jpg',
+  0.42,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479791410/yahvkjxxech3swh1fy60.jpg',
+  0.23,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479795010/ejg7t2ygzsrnw2czo19b.jpg',
+  0.17,
+  16 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479798617/hl1aqt9qxvo0illonlzo.jpg',
+  0.09,
+  16 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479802216/kqlygkwvhxt6qs7zree5.jpg',
+  0.05,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479805816/egusd4h44hj4lfyuvdss.jpg',
+  0.03,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479809417/cc27qgharicsn5szmucs.jpg',
+  0.03,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479813014/me1epqhcqim8apjfpbq5.jpg',
+  0.05,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479816614/dmhgw5oxazav1snd9vfw.jpg',
+  0.05,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479820217/hf7x3rultlenrfjzvond.jpg',
+  0.05,
+  16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479823817/ix4vy3erio2auirsmnkb.jpg',
+  0.03,
+  16.2 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479827409/zwuwbntn2tbbrvharmdb.jpg',
+  0.03,
+  16.2 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479831009/jayoz20aif2u3yeks8ts.jpg',
+  0.02,
+  16.2 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479834609/qwb2zitxcujmsq1tzksz.jpg',
+  0,
+  16.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479838209/nbj83mwquavighnhafls.jpg',
+  0,
+  16.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479841810/gcj0lklu8lplyj0nnyh7.jpg',
+  0,
+  16.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479845410/eescxz1pfnejoswylrev.jpg',
+  0,
+  16.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479849010/ts8ryg9mttjuong5aaig.jpg',
+  0,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479852610/scvxjtpk7exktpdcas4r.jpg',
+  0,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479856208/ofqtkzjzp3kmpkxn0wdq.jpg',
+  0,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479859809/eda37ghp6e0tyqdcnkt0.jpg',
+  0,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479863410/vaaa5ogwacaw7t3wbgum.jpg',
+  0,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479867009/bo3tzxzftk7kqadrmtix.jpg',
+  0,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479870608/lk8zjjqk7y95szvmmqcs.jpg',
+  0,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479874210/fkhygu50f4hb0ptse7cu.jpg',
+  0,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479877808/klouhhngatoru2lajacu.jpg',
+  0,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479881409/c15t08bjfqpojfeoo7qh.jpg',
+  0,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479885018/rfwtuwcc2lpz1uke2rfx.jpg',
+  0,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479888617/pi6jtiaafw4aogxvp2fu.jpg',
+  0,
+  16.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479892218/fxw3xye2zoohisijs8dm.jpg',
+  0,
+  16.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479895921/nffmhv4nboemumd1v9rz.jpg',
+  0,
+  16.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479899493/nqpyyul0ve3asp6cz2lo.jpg',
+  0,
+  16.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479903204/eae4f6fovqq2eev75jjn.jpg',
+  0,
+  16.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479906711/p2oghkhtb9app64mdlvl.jpg',
+  0,
+  16.6 ]
+{ [MongoError: connection 5078 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 5078 to ds019950.mlab.com:19950 timed out' }
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479910245/mjjb8iaqdkdkazmhvva6.jpg',
+  0,
+  16.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479913843/kko1kau3phjivjplszrh.jpg',
+  0,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479917460/s5z9cjjychp5ygexqbnq.jpg',
+  0,
+  16.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479921047/tjmcgras2ter2zgotvjb.jpg',
+  0,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479924666/vzjnytmpqy61yav2g4kt.jpg',
+  0,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479928246/mh7jhbitfwwjtnpmdrt3.jpg',
+  0.05,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479931861/eipgfqzhkv9vkehzgg5b.jpg',
+  0.14,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479935462/lxgxskhdufywubmbmmer.jpg',
+  0.3,
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ undefined,
+  'precipitation probability could not be found',
+  16.4 ]
+connected to database
+data was saved [object Object]
+[ undefined,
+  'precipitation probability could not be found',
+  16.4 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+[ undefined,
+  'precipitation probability could not be found',
+  16.3 ]
+{ [MongoError: connection 17238 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 17238 to ds019950.mlab.com:19950 timed out' }
+[ undefined, 0.66, 16.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479953446/vbfd2l6paat0r5ypnjs3.jpg',
+  0.67,
+  16 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479957166/cvz4rj6spwg5patlisfb.jpg',
+  'precipitation probability could not be found',
+  15.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479960646/ad8ixrmgewqdotvehr3h.jpg',
+  0.65,
+  15.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479964215/nhx2zp1qbd7wuxn3hgko.jpg',
+  0.62,
+  15.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479967818/bfqztsuh4tbkhvdxziwx.jpg',
+  0.59,
+  15.5 ]
+connected to database
+data was saved [object Object]
+[ undefined, 0.5, 15.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479975021/zsv3ueg0bqxnqi9fgf6p.jpg',
+  0.16,
+  15.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479978635/g70y6x2twxhe4yba1gga.jpg',
+  0,
+  15.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479982313/qjkwa7fcdpyz8ckturcj.jpg',
+  0,
+  15.2 ]
+connected to database
+data was saved [object Object]
+[ undefined,
+  'precipitation probability could not be found',
+  15.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479989578/e9yix9dfma06rgqdwdck.jpg',
+  'precipitation probability could not be found',
+  15 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479993092/phlcag6kqn8ujupsj46s.jpg',
+  0,
+  14.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1479996686/msoqg6ywlwjwp6kfyvtx.jpg',
+  0,
+  14.8 ]
+connected to database
+data was saved [object Object]
+[ undefined,
+  'precipitation probability could not be found',
+  14.6 ]
+{ [MongoError: connection 38518 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 38518 to ds019950.mlab.com:19950 timed out' }
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480003866/qketycwz1ad7yj9jk3s0.jpg',
+  0,
+  14.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480007410/vhwbmqxrralq2csiijbn.jpg',
+  0,
+  14.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480011057/nkb2dq6ekj0j4vqozt8u.jpg',
+  0,
+  14.4 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480014656/fjhmqxpxkllm4pngy02j.jpg',
+  0,
+  14.3 ]
+{ [MongoError: connection 40734 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 40734 to ds019950.mlab.com:19950 timed out' }
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480018475/kfuqtsuk2omwlddi4pdg.jpg',
+  'precipitation probability could not be found',
+  14.2 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480021811/fon833niukrpsvojkjez.jpg',
+  0,
+  14.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480025424/ew14ku9ee6fyiyiemwkz.jpg',
+  0,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480029033/x8fyy3bvmviexdinrqle.jpg',
+  0,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480032610/ojmxnxes9dr9gmt9voxk.jpg',
+  0,
+  13.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480036211/gvsupbocfk4gfwkqbcrj.jpg',
+  0,
+  13.7 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480039834/leglarqtyzpxufkdf8mp.jpg',
+  0,
+  13.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480043450/a7tlqagj3er93khuvzvq.jpg',
+  0,
+  13.2 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480047015/h3efidwav7lkk9gctl3b.jpg',
+  0,
+  13.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480050650/lbp0tyzhpwt1wxt71g6e.jpg',
+  0,
+  12.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480054244/epy0ulfk6g0znbhngtvu.jpg',
+  0.02,
+  12.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480057873/jvjjpnzc1m957exexkxv.jpg',
+  0.23,
+  12.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480061469/okffca4exwflg8ywc8gi.jpg',
+  0.53,
+  12.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480065294/soxzeqe6mzfcbkyvj306.jpg',
+  0.56,
+  12.7 ]
+{ [MongoError: connection 46707 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 46707 to ds019950.mlab.com:19950 timed out' }
+[ undefined, 0.56, 12.7 ]
+{ [MongoError: connection 51449 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 51449 to ds019950.mlab.com:19950 timed out' }
+[ undefined, 0.51, 12.7 ]
+{ [MongoError: connection 55664 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 55664 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.6 ]
+{ [MongoError: connection 60308 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 60308 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.6 ]
+{ [MongoError: connection 65913 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 65913 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.6 ]
+{ [MongoError: connection 71097 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 71097 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.5 ]
+{ [MongoError: connection 76945 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 76945 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.5 ]
+{ [MongoError: connection 82314 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 82314 to ds019950.mlab.com:19950 timed out' }
+[ undefined, 0.04, 12.5 ]
+{ [MongoError: connection 89609 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 89609 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.6 ]
+{ [MongoError: connection 94663 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 94663 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.6 ]
+{ [MongoError: connection 101441 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 101441 to ds019950.mlab.com:19950 timed out' }
+[ undefined, 0.66, 12.6 ]
+{ [MongoError: connection 107201 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 107201 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.8 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+[ undefined,
+  'precipitation probability could not be found',
+  12.9 ]
+{ [MongoError: connection 118747 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 118747 to ds019950.mlab.com:19950 timed out' }
+[ undefined, 'precipitation probability could not be found', 13 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+[ undefined,
+  'precipitation probability could not be found',
+  13.1 ]
+connected to database
+data was saved [object Object]
+[ undefined,
+  'precipitation probability could not be found',
+  13.3 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+[ undefined,
+  'precipitation probability could not be found',
+  13.4 ]
+{ [MongoError: connection 141943 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 141943 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  13.4 ]
+{ [MongoError: connection 150738 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 150738 to ds019950.mlab.com:19950 timed out' }
+[ undefined,
+  'precipitation probability could not be found',
+  13.5 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+[ undefined, 0, 13.6 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480140658/zhk2zg1ce1g3xht8qezi.jpg',
+  0,
+  13.6 ]
+{ [MongoError: failed to connect to server [ds019950.mlab.com:19950] on first connect]
+  name: 'MongoError',
+  message: 'failed to connect to server [ds019950.mlab.com:19950] on first connect' }
+[ undefined, 0.06, 13.6 ]
+{ [MongoError: connection 166051 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 166051 to ds019950.mlab.com:19950 timed out' }
+[ undefined, 0.19, 13.7 ]
+{ [MongoError: connection 166884 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 166884 to ds019950.mlab.com:19950 timed out' }
+[ undefined, 0.27, 13.8 ]
+{ [MongoError: connection 167582 to ds019950.mlab.com:19950 timed out]
+  name: 'MongoError',
+  message: 'connection 167582 to ds019950.mlab.com:19950 timed out' }
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480155094/wquckqrwb4vetiglvpqr.jpg',
+  0.28,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480158666/d0v0knqclbrr15cdmwtt.jpg',
+  0.24,
+  14 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480162259/svo9cr4azyngygp6hesc.jpg',
+  0.14,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480165907/gf1pirwbvw1a7il6sql5.jpg',
+  0.07,
+  14 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480169431/r2enx1hsaryx3j8zq70v.jpg',
+  0.02,
+  14 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480173031/nzmhsoxm3grx9fahufka.jpg',
+  0,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480176608/bijbgot9pviuqpbkgkmy.jpg',
+  0.01,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480180221/wzcg5d8jdukxf9rnohjw.jpg',
+  0,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480183844/mvn6d0i2angjf5xqy5fb.jpg',
+  0,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480187412/mnmc2euieonfki1xdbdv.jpg',
+  0,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480191014/hjbdywza0atiohgari0o.jpg',
+  0,
+  13.9 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480194627/vclo0bumgj233wf0d1f5.jpg',
+  0,
+  13.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480198223/cjxur4mssmx4zaitr3ll.jpg',
+  0,
+  13.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480201822/bbdpleuf2izblqahuqhv.jpg',
+  0,
+  13.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480205445/vrqbt21zlj4ixpmu3yrm.jpg',
+  0,
+  13.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480209031/et6xvuztarodc5tpl9sr.jpg',
+  0.04,
+  13.8 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480212623/hzucqpiylsrvmrf7n7x3.jpg',
+  0.12,
+  13.7 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480216276/vmheuq7wph3fhdqjgd8t.jpg',
+  0.19,
+  13.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480219815/el4mfwgtd8psyr6wuosl.jpg',
+  0.2,
+  13.6 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480223410/bypvqvxerjzx2u6tuvj6.jpg',
+  0.11,
+  13.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480227021/uxvgc9m5emee5vj4kulp.jpg',
+  0.14,
+  13.5 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480230617/d60bnl8agmcaawchtsoi.jpg',
+  0.16,
+  13.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480234231/kjkulysehaoy7yjue1c6.jpg',
+  0.17,
+  13.3 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480237846/oajbaev6xykurjclmajf.jpg',
+  0.19,
+  13.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480241458/jozihg23vzkjuzs7fcrq.jpg',
+  0.22,
+  13.1 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480245037/x451woyrrjb5oytn1nwr.jpg',
+  0.13,
+  13 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480248618/oorhjbodyogejxn1tnoh.jpg',
+  0.13,
+  13 ]
+connected to database
+data was saved [object Object]
+[ 'http://res.cloudinary.com/angamanga/image/upload/v1480252217/fk1vijwwyyhkapwzalfu.jpg',
+  0.13,
+  12.9 ]
+connected to database
+data was saved [object Object]

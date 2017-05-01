@@ -10,7 +10,7 @@ module.exports = {
           console.log(err);
           resolve('no temp measured');
         }
-        console.log('Current temperature is', value);
+//        console.log('Current temperature is', value);
         resolve(value);
       });
     });

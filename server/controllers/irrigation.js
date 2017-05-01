@@ -3,13 +3,14 @@ const gpio = require('gpio');
 
 module.exports={
     startIrrigation(){
-        let gpio2 = gpio.export(26,{
+        console.log('irrigating');
+	let gpio14 = gpio.export(18,{
             direction:'out',
             interval:200,
             ready:function(){
-                    gpio2.set();
+                    gpio14.set();
                     setTimeout(function() {
-                        gpio2.reset(); }, 1800000);
+                        gpio14.reset(); }, 1000);
             }});
     }
 }
