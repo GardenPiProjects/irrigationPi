@@ -1,8 +1,6 @@
 "use strict";
 class DailyReport {
-  constructor(temperature, url, probabilityOfRain, irrigated) {
-    this.temperature = temperature;
-    this.url = url;
+  constructor(probabilityOfRain, irrigated) {
     this.probabilityOfRain = probabilityOfRain;
     this.irrigated = irrigated;
     this.timestamp = Date.now();
